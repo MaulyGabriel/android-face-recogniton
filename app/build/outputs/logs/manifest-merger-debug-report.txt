@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+MERGED from [com.android.support:multidex:1.0.3] /home/mauly/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/063a09459fb0e62a97a8d9436d0dd16b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+	package
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:2:5-60
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:1-39:12
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:8:22-65
+uses-feature#android.hardware.camera
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:10:5-60
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:10:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:11:5-70
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:11:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:12:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:13:19-73
+application
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:15:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:21:9-35
+	android:label
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:20:9-54
+	android:largeHeap
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:19:9-33
+	android:icon
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:23:9-40
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:22:9-68
+activity#org.bytedeco.javacv.android.recognize.example.MainActivity
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:26:9-87
+	android:screenOrientation
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:26:48-85
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:26:19-47
+activity#org.bytedeco.javacv.android.recognize.example.FaceOperatorRecognition
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:screenOrientation
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:29:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:31:17-35:33
+action#android.intent.action.MAIN
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:32:21-73
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:32:29-70
+category#android.intent.category.LAUNCHER
+ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:34:21-81
+	android:name
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml:34:31-78
+uses-sdk
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /home/mauly/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/063a09459fb0e62a97a8d9436d0dd16b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/mauly/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/063a09459fb0e62a97a8d9436d0dd16b/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		ADDED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mauly/Solinftec/Android/face-recognition-javacv/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/55b374c097b5398c85c67daad7f033eb/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/71a8798207e2ec02fb3c0b6cdc20bd39/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/ccd1e8b383c61185c34f40fd6f16c0cb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/65aa01fefdad6fe147fd96070b7b350d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/0d189cf3b157a68a2c8f0488e38d2310/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/d73c902e18d11417c2d06144ec1d5f8c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/b7601d0b80e50b0f1bfea0b2441c088a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/3b39099a4b7e65f5a9b9a2dd01e11f6c/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/mauly/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/1467919ece2a238a799d3a4f038e9cb9/AndroidManifest.xml:26:9-47

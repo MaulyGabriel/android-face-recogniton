@@ -1,0 +1,2 @@
+# Referenced at /home/mauly/Solinftec/Android/face-recognition-javacv/app/build/intermediates/merged_manifests/debug/AndroidManifest.xml:26
+-keep class android.support.multidex.MultiDexApplication { <init>(); }
